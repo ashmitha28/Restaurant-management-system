@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Assets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/mysql-connector-j-8.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

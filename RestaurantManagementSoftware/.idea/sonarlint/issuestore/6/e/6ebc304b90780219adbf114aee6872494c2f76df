@@ -1,0 +1,50 @@
+
+>
+java:S1604m"(Make this anonymous inner class a lambda(¼şÑõ
+>
+java:S1604t"(Make this anonymous inner class a lambda(èû Š
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰‰Šùÿÿÿÿ
+{
+java:S1450"_Remove the "btnCreateAccount" field and declare it as a local variable in the relevant methods.(«ƒ±³ÿÿÿÿÿ
+o
+java:S1450‘"XRemove the "btnSignin" field and declare it as a local variable in the relevant methods.(°¬â¿
+r
+java:S1450“"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450”"WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ
+s
+java:S1450•"WRemove the "jLabel11" field and declare it as a local variable in the relevant methods.(‰Ó‚©øÿÿÿÿ
+n
+java:S1450–"WRemove the "jLabel12" field and declare it as a local variable in the relevant methods.(¶“¡
+r
+java:S1450—"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450˜"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450™"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450š"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450›"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450œ"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+q
+java:S1450Ÿ"ZRemove the "jTextField9" field and declare it as a local variable in the relevant methods.(ØÌ£¼
+@
+java:S1948"%Make "con" transient or serializable.(úú–ùşÿÿÿÿ
+:
+java:S1948"$Make "rs" transient or serializable.(¶¨ÜŒ
+A
+java:S1948"&Make "stmt" transient or serializable.(½ÍÎáüÿÿÿÿ
+F
+java:S1172ç"*Remove this unused method parameter "evt".(òÉãèıÿÿÿÿ
+X
+java:S1659è"ADeclare "pass" and all following declarations on a separate line.(ÄŸ¡å
+F
+java:S1874î"/Remove this use of "getText"; it is deprecated.(›ò è
+F
+java:S1172†"*Remove this unused method parameter "evt".(ãÒÇ•şÿÿÿÿ

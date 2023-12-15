@@ -1,0 +1,34 @@
+
+=
+java:S1604;"(Make this anonymous inner class a lambda(ÑÒg
+D
+java:S1604¨"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰‰Šùÿÿÿÿ
+p
+java:S1450°"YRemove the "btnConnect" field and declare it as a local variable in the relevant methods.(°ßÏ¸
+r
+java:S1450±"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450²"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450³"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+@
+java:S1948"%Make "con" transient or serializable.(úú–ùşÿÿÿÿ
+:
+java:S1948"$Make "rs" transient or serializable.(¶¨ÜŒ
+A
+java:S1948"&Make "stmt" transient or serializable.(½ÍÎáüÿÿÿÿ
+@
+java:S1172r"*Remove this unused method parameter "evt".(®¾êÎ
+M
+java:S1135s"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+E
+java:S1874u"/Remove this use of "getText"; it is deprecated.(¾Ò¯Ì
+F
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147"ECombine this catch with the one at line 156, which has the same body.(¨¦Š½
+\
+java:S2147 "ECombine this catch with the one at line 158, which has the same body.(ã€ 
+[
+java:S2147¢"ECombine this catch with the one at line 160, which has the same body.(ñÎ¯%

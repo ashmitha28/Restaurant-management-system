@@ -1,0 +1,73 @@
+
+F
+java:S3740â"/Provide the parametrized type for this generic.(Áä¨¨
+F
+java:S3740â"/Provide the parametrized type for this generic.(Áä¨¨
+p
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ï»
+p
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ï»
+>
+java:S1604T"(Make this anonymous inner class a lambda(„İÖ®
+C
+java:S1604["(Make this anonymous inner class a lambda(©òæóÿÿÿÿÿ
+>
+java:S1604n"(Make this anonymous inner class a lambda(ı¨ùİ
+D
+java:S1604£"(Make this anonymous inner class a lambda(Ù˜È„ıÿÿÿÿ
+D
+java:S1604®"(Make this anonymous inner class a lambda(ã¹ä›øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰‰Šùÿÿÿÿ
+7
+java:S1659"!Declare "rs2" on a separate line.(›ˆÂÍ
+9
+java:S1659"#Declare "stmt2" on a separate line.(³ØœŠ
+r
+java:S1450´"[Remove the "btnAvailable" field and declare it as a local variable in the relevant methods.(ÚŠ­ò
+l
+java:S1450µ"VRemove the "btnBook" field and declare it as a local variable in the relevant methods.(¶‡²"
+~
+java:S1450¶"bRemove the "btnCheckAnotherDate" field and declare it as a local variable in the relevant methods.(ğÃ½§ıÿÿÿÿ
+r
+java:S1450¹"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450º"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450»"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+@
+java:S1948"%Make "con" transient or serializable.(úú–ùşÿÿÿÿ
+:
+java:S1948"$Make "rs" transient or serializable.(›ˆÂÍ
+;
+java:S1948"%Make "rs2" transient or serializable.(›ˆÂÍ
+<
+java:S1948"&Make "stmt" transient or serializable.(³ØœŠ
+=
+java:S1948"'Make "stmt2" transient or serializable.(³ØœŠ
+V	java:S125-"<This block of commented-out lines of code should be removed.(ƒ·½ùÿÿÿÿ
+F
+java:S1172˜"*Remove this unused method parameter "evt".(Ôº˜Ãûÿÿÿÿ
+N
+java:S1135™"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172œ"*Remove this unused method parameter "evt".(ø©‘Ô
+Q
+java:S1854â":Remove this useless assignment to local variable "model2".(Áä¨¨
+F
+java:S1172Ú"*Remove this unused method parameter "evt".(®ûÊ›üÿÿÿÿ
+N
+java:S1135Û"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172ñ"*Remove this unused method parameter "evt".(¸Ãÿ¥úÿÿÿÿ
+F
+java:S1172«"*Remove this unused method parameter "evt".(¨àï¹üÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+F
+java:S1128"1Remove this unused import 'javax.swing.JSpinner'.(šD
+O
+java:S1128"9Remove this unused import 'javax.swing.SpinnerDateModel'.(¤°ŞÌ
+d
+java:S1128"IRemove this unused import 'javax.swing.WindowConstants.DISPOSE_ON_CLOSE'.(ä‘ò­üÿÿÿÿ
