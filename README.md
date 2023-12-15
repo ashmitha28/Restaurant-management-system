@@ -1,4 +1,5 @@
 Introduction
+
 A restaurant reservations system helps users to manage all your bookings digitally and allows restaurant staffs to modify the seating availability. This can reduce those dreaded no shows and ensure maximizing all the available tables. Customers can also place orders through this portal and pay for it online. Instead of reserving the table manually, this technique makes it easier to see the available slots and reserve the table accordingly. Restaurant staff can now use this portal to manage their table availability and reduce no shows and track the customers and their orders.
 The goals are not only to make it a table booking system, but also a full restaurant management system, allowing restaurant owners to manage their bookings, menus, and other information displayed on the software.
 This project implements a simple Restaurant Management System using a MySQL database. It includes a set of stored procedures to manage staff, customers, orders, bookings, items, categories, and tables. This project implements a Restaurant Management System with a MySQL database and a Java Swing-based GUI using JFrame (version 11).
